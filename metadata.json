@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Voice-activated AI assistant with a futuristic interface.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
